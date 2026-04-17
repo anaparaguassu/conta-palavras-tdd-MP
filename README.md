@@ -38,4 +38,4 @@ make gcov
 Este projeto demonstra a aplicação de TDD para construir um contador de palavras eficiente e confiável. A integração de boas práticas de programação e ferramentas de análise garante que o código seja fácil de manter e proporciona maior confiança no desenvolvimento das funcionalidades.
 
 ## Link para o GitHub
-https://github.com/Aninha1105/conta-palavras-tdd-MP
+https://github.com/anaparaguassu/conta-palavras-tdd-MP
